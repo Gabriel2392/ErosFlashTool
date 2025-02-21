@@ -15,13 +15,6 @@ Eros is a lightweight Android app (3MB) designed to flash firmware on Samsung de
 - **AB Partition Support**: Choose which partition to flash on A/B partition devices.
 - **Auto Reboot Switches**: Control whether the device reboots automatically after flashing.
 
-## Key Details
-
-- **Size**: 3MB
-- **No Root Required**: Works without root access.
-- **Supported Architectures**: arm64-v8a, armeabi-v7a, x86, x86_64.
-- **Android TV Support**: Eros may work on Android TVs that have the USB Host API.
-
 ## How to Use
 
 1. **Install Eros**: Download and install the app on your Android device or TV.
@@ -32,7 +25,7 @@ Eros is a lightweight Android app (3MB) designed to flash firmware on Samsung de
 
 ## Supported Devices
 
-Eros works with Samsung devices that use the Odin3 protocol, and also supports devices with real A/B partitions (currently A55).
+Eros works with Samsung devices that use the Odin3 protocol, and also supports devices with real A/B partitions (currently A55, S25 or newer).
 
 ## Support
 Telegram Channel: https://t.me/ErosMobileTool
