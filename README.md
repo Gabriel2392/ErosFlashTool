@@ -25,7 +25,7 @@ Eros is a lightweight Android app (3MB) designed to flash firmware on Samsung de
 
 ## Supported Devices
 
-Eros works with Samsung devices that use the Odin3 protocol, and also supports devices with real A/B partitions (currently A55, S25 or newer).
+Eros works with Samsung devices that use the Odin3 protocol, and also supports devices with real A/B partitions (currently A36, A55, S25 and newer).
 
 ## Support
 Telegram Channel: https://t.me/ErosMobileTool
