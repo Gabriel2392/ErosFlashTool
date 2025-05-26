@@ -1,6 +1,6 @@
 # Eros Samsung Flasher
 
-Eros is a lightweight Android app (3MB then, 6MB now) designed to flash firmware on Samsung devices via OTG. No root is required, and it supports all architectures, that is, arm64-v8a, armeabi-v7a, x86, and x86_64. Eros can also run on Android TVs that support the USB Host API.
+Eros is a lightweight Android app designed to flash firmware on Samsung devices via OTG. No root is required, and it supports all architectures, that is, arm64-v8a, armeabi-v7a, x86, and x86_64. Eros can also run on Android TVs that support the USB Host API.
 
 ## Features
 
